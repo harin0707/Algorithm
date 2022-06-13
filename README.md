@@ -2,17 +2,23 @@
 
 <h2> Model 1 </h2>
 <h3> Result images and Probablities predicted wrong </h3>
-<img width="926" alt="스크린샷 2022-06-14 오전 12 44 47" src="https://user-images.githubusercontent.com/101720703/173392747-c3f264ca-3977-4c42-8b41-5f8817a03bc7.png">
-
+<img width="926" alt="스크린샷 2022-06-14 오전 12 44 47" src="https://user-images.githubusercontent.com/101720703/173393569-7b2e3f61-e539-47f0-a0cf-0bbfad380ae4.png">
 <h3> Accuracies</h3>
-<img width="1122" alt="스크린샷 2022-06-14 오전 12 46 22" src="https://user-images.githubusercontent.com/101720703/173392963-add6ab7a-4b66-487e-885a-46122c1f0391.png">
+<img width="1127" alt="스크린샷 2022-06-14 오전 12 49 04" src="https://user-images.githubusercontent.com/101720703/173393610-e3eb8982-9b1a-48b6-94bc-1cdefb81b9f0.png">
 
 
 
 <h2> Model 2 </h2>
 <h3> Result images and Probablities predicted wrong </h3>
 <img width="919" alt="스크린샷 2022-06-14 오전 12 37 55" src="https://user-images.githubusercontent.com/101720703/173391314-220bf993-afd2-4e78-afba-8c1b1c4d9b74.png">
-
 <h3> Accuracies</h3>
 <img width="918" alt="스크린샷 2022-06-14 오전 12 37 27" src="https://user-images.githubusercontent.com/101720703/173391334-467205e1-6c7e-4038-b3ad-5143cfaa3044.png">
+
+
+
+<h2> Model 3 </h2>
+<h3> Result images and Probablities predicted wrong </h3>
+<img width="1118" alt="스크린샷 2022-06-14 오전 12 53 29" src="https://user-images.githubusercontent.com/101720703/173394579-b2986a18-f7d5-4499-a500-2b051fa1fb87.png">
+<h3> Accuracies</h3>
+<img width="1118" alt="스크린샷 2022-06-14 오전 12 53 29" src="https://user-images.githubusercontent.com/101720703/173394470-ea4ac5cc-4756-4f1e-96f1-22b351a99f08.png">
 
