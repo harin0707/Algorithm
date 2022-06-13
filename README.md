@@ -20,5 +20,6 @@
 <h3> Result images and Probablities predicted wrong </h3>
 <img width="1118" alt="스크린샷 2022-06-14 오전 12 53 29" src="https://user-images.githubusercontent.com/101720703/173394579-b2986a18-f7d5-4499-a500-2b051fa1fb87.png">
 <h3> Accuracies</h3>
-<img width="1118" alt="스크린샷 2022-06-14 오전 12 53 29" src="https://user-images.githubusercontent.com/101720703/173394470-ea4ac5cc-4756-4f1e-96f1-22b351a99f08.png">
+g">
+<img width="1125" alt="스크린샷 2022-06-14 오전 12 54 36" src="https://user-images.githubusercontent.com/101720703/173395059-2dcec84c-b39c-4c8b-aa6a-c19b8735fb8c.png">
 
