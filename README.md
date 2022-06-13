@@ -2,9 +2,10 @@
 
 <h2> Model 1 </h2>
 <h3> Result images and Probablities predicted wrong </h3>
-<img width="926" alt="스크린샷 2022-06-14 오전 12 29 30" src="https://user-images.githubusercontent.com/101720703/173390657-8da4c928-86e1-42bd-8a9e-444e35239fc6.png">
+<img width="926" alt="스크린샷 2022-06-14 오전 12 44 47" src="https://user-images.githubusercontent.com/101720703/173392747-c3f264ca-3977-4c42-8b41-5f8817a03bc7.png">
 
 <h3> Accuracies</h3>
+<img width="1122" alt="스크린샷 2022-06-14 오전 12 46 22" src="https://user-images.githubusercontent.com/101720703/173392963-add6ab7a-4b66-487e-885a-46122c1f0391.png">
 
 
 
