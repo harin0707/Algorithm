@@ -16,7 +16,7 @@
 <img width="626" alt="스크린샷 2022-06-14 오전 1 26 10" src="https://user-images.githubusercontent.com/101720703/173400443-84c695a6-f30f-4ff4-a11d-7a494460b15c.png">
 
 <h3> -Fail images and Probablities predicted wrong </h3>
-</<img width="1003" alt="스크린샷 2022-06-14 오전 1 25 51" src="https://user-images.githubusercontent.com/101720703/173400489-ddc42d8d-aba6-48cf-9034-85e68c365de9.png">
+<img width="1003" alt="스크린샷 2022-06-14 오전 1 34 38" src="https://user-images.githubusercontent.com/101720703/173401846-5da779c6-c4b9-4bd5-9d1d-0a40df9734ac.png">
 
 <h3> -Accuracies </h3>
 <img width="988" alt="스크린샷 2022-06-14 오전 1 26 23" src="https://user-images.githubusercontent.com/101720703/173400627-aeafc448-8721-4f82-885b-4dd024ae8832.png">
